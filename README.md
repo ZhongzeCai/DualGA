@@ -2,9 +2,11 @@
 
 ## Structure
 
-The `WatermarkAlgorithm` folder holds the watermarking algorithms. Our Dual Gradient Ascent algorithm is implemented in `WatermarkAlgorithm/utils/DualGD_generator.py`
+The `WatermarkAlgorithm` folder holds the watermarking algorithms. Our Dual Gradient Ascent algorithm is implemented in `WatermarkAlgorithm/utils/DualGD_generator.py`.
 
+## Experiments
 
+The `experiments` folder holds the experiment scripts on 3 most standard settings. When running the scrips, make sure to replace the "path/to/..." parts with the real path.
 
 ## Acknowledgements
 
